@@ -1,3 +1,1 @@
-I create random programs with C.
-
-linux masterrace 💻
+Linux and C enthusiast 🐧
