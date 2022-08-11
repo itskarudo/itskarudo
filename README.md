@@ -1,1 +1,1 @@
-Linux and C enthusiast 🐧
+I make projects and never finish them 💻
